@@ -2558,7 +2558,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   color: #fff;
-  background: url("../img/aaa.jpg") top center no-repeat;
+  background: url("../img/hero-carousel/aaa-min.jpg") top center no-repeat;
   background-size: cover;
   font-size: 14px;
   padding: 80px 0 60px 0;
